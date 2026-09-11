@@ -1,62 +1,11 @@
 [
   {
     "id": "fire-movement-financial-independence-hub-reddit-1",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "stocks",
-      "wealth",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-2",
-    "title": "r/stocks Market News",
-    "platform": "Reddit",
-    "category": "Stock Market",
-    "memberCount": "6,400,000+ members",
-    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
-    "joinUrl": "https://www.reddit.com/r/stocks/",
-    "tags": [
-      "stocks",
-      "wall-street",
-      "earnings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-3",
-    "title": "r/personalfinance Money Management",
-    "platform": "Reddit",
-    "category": "Personal Finance",
-    "memberCount": "19,000,000+ members",
-    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
-    "joinUrl": "https://www.reddit.com/r/personalfinance/",
-    "tags": [
-      "personal-finance",
-      "budgeting",
-      "savings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-4",
     "title": "r/financialindependence FIRE Hub",
     "platform": "Reddit",
     "category": "Financial Independence",
     "memberCount": "2,200,000+ members",
-    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
+    "description": "The premier global community for calculating safe withdrawal rates, maximizing savings rates, and achieving early retirement.",
     "joinUrl": "https://www.reddit.com/r/financialindependence/",
     "tags": [
       "fire",
@@ -65,20 +14,71 @@
       "reddit"
     ],
     "verified": true,
+    "featured": true
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-2",
+    "title": "r/leanfire Minimalist FIRE",
+    "platform": "Reddit",
+    "category": "Lean FIRE",
+    "memberCount": "290,000+ members",
+    "description": "Strategies for achieving financial independence on an annual budget under $40,000 through extreme frugality.",
+    "joinUrl": "https://www.reddit.com/r/leanfire/",
+    "tags": [
+      "leanfire",
+      "frugality",
+      "budgeting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-3",
+    "title": "r/fatFIRE High-Net-Worth FIRE",
+    "platform": "Reddit",
+    "category": "Fat FIRE",
+    "memberCount": "420,000+ members",
+    "description": "Achieving early retirement with high expenditure ($100k-$500k+/year), estate planning, and private equity investments.",
+    "joinUrl": "https://www.reddit.com/r/fatFIRE/",
+    "tags": [
+      "fatfire",
+      "wealth",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-4",
+    "title": "r/Bogleheads Passive Indexing",
+    "platform": "Reddit",
+    "category": "Index Funds",
+    "memberCount": "390,000+ members",
+    "description": "The legendary 3-fund portfolio (VTI/VXUS/BND), low-cost indexing, and buy-and-hold investing philosophy.",
+    "joinUrl": "https://www.reddit.com/r/Bogleheads/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "vanguard",
+      "reddit"
+    ],
+    "verified": true,
     "featured": false
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-5",
-    "title": "r/wallstreetbets Alpha & Options",
+    "title": "r/personalfinance Money Management",
     "platform": "Reddit",
-    "category": "Trading",
-    "memberCount": "16,500,000+ members",
-    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
-    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "category": "Personal Finance",
+    "memberCount": "19,000,000+ members",
+    "description": "Foundational money management, debt reduction waterfall, emergency funds, and 401(k) retirement matching.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
     "tags": [
-      "wsb",
-      "trading",
-      "options",
+      "finance",
+      "money",
+      "budgeting",
       "reddit"
     ],
     "verified": true,
@@ -86,15 +86,83 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-6",
-    "title": "r/realestateinvesting Wealth Hub",
+    "title": "r/dividends Cash Flow Compounding",
     "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "540,000+ members",
-    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "Building sustainable passive income through qualified dividend growth stocks, SCHD, and DRIP compounding.",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
     "tags": [
-      "real-estate",
-      "syndications",
+      "dividends",
+      "passive-income",
+      "stocks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-7",
+    "title": "r/investing Market Intelligence",
+    "platform": "Reddit",
+    "category": "Broad Market",
+    "memberCount": "2,400,000+ members",
+    "description": "Macroeconomic interest rates, treasury yield curves, index performance, and long-term equity valuation.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "macro",
+      "equities",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-8",
+    "title": "r/stocks Equity Research",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "6,500,000+ members",
+    "description": "Quarterly earnings reports, corporate balance sheet analysis, valuation multiples, and market sentiment.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "stocks",
+      "earnings",
+      "valuation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-9",
+    "title": "r/FIREyFemmes Women in FIRE",
+    "platform": "Reddit",
+    "category": "Women & FIRE",
+    "memberCount": "55,000+ members",
+    "description": "Supportive community for women pursuing financial independence, salary negotiation, and wealth accumulation.",
+    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
+    "tags": [
+      "women",
+      "fire",
+      "careers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-reddit-10",
+    "title": "r/ChubbyFIRE Mid-Tier FIRE",
+    "platform": "Reddit",
+    "category": "Chubby FIRE",
+    "memberCount": "72,000+ members",
+    "description": "Planning for retirement with a net worth between $2.5M and $5M, balancing comfort without extreme excess.",
+    "joinUrl": "https://www.reddit.com/r/ChubbyFIRE/",
+    "tags": [
+      "chubbyfire",
+      "retirement",
       "investing",
       "reddit"
     ],
@@ -102,85 +170,17 @@
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-discord-7",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
-    "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-telegram-8",
-    "title": "Bloomberg Market Feed Channel",
-    "platform": "Telegram",
-    "category": "Market News",
-    "memberCount": "140,000+ members",
-    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
-    "joinUrl": "https://t.me/bloomberg",
-    "tags": [
-      "bloomberg",
-      "macro",
-      "telegram",
-      "news"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-forum-9",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
-    "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-forum-10",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
-    "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
     "id": "fire-movement-financial-independence-hub-reddit-11",
-    "title": "Real Estate Mastermind Subreddit",
+    "title": "r/CoastFIRE Work-Life Balance",
     "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "850,000+ members",
-    "description": "Official discussion hub for real estate market trends, off-market deal contracts, and closing strategies.",
-    "joinUrl": "https://www.reddit.com/r/RealEstate/",
+    "category": "Coast FIRE",
+    "memberCount": "110,000+ members",
+    "description": "Investing aggressively early so compound growth covers retirement, freeing time for enjoyable part-time work.",
+    "joinUrl": "https://www.reddit.com/r/CoastFIRE/",
     "tags": [
-      "real-estate",
-      "contracts",
-      "market-trends",
+      "coastfire",
+      "lifestyle",
+      "compounding",
       "reddit"
     ],
     "verified": true,
@@ -188,16 +188,16 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-12",
-    "title": "Commercial Real Estate & Syndications",
+    "title": "r/PovertyFinance Financial Resilience",
     "platform": "Reddit",
-    "category": "Commercial",
-    "memberCount": "120,000+ members",
-    "description": "High-tier institutional and private syndication community covering multifamily assets, cap rates, and deal structuring.",
-    "joinUrl": "https://www.reddit.com/r/CommercialRealEstate/",
+    "category": "Financial Recovery",
+    "memberCount": "2,100,000+ members",
+    "description": "Practical guidance on credit score rehabilitation, frugal grocery hacks, and breaking the debt cycle.",
+    "joinUrl": "https://www.reddit.com/r/PovertyFinance/",
     "tags": [
-      "commercial",
-      "syndication",
-      "multifamily",
+      "frugal",
+      "debt",
+      "recovery",
       "reddit"
     ],
     "verified": true,
@@ -205,16 +205,16 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-13",
-    "title": "Landlords & Asset Managers Guild",
+    "title": "r/realestateinvesting Cashflow Properties",
     "platform": "Reddit",
-    "category": "Landlords",
-    "memberCount": "150,000+ members",
-    "description": "Property management operational insights, tenant screening protocols, and rental cashflow optimization discussions.",
-    "joinUrl": "https://www.reddit.com/r/Landlord/",
+    "category": "Real Estate",
+    "memberCount": "620,000+ members",
+    "description": "Rental property cap rates, cash-on-cash returns, 1031 tax deferrals, and passive syndications.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
     "tags": [
-      "landlords",
-      "rentals",
+      "realestate",
       "cashflow",
+      "investing",
       "reddit"
     ],
     "verified": true,
@@ -222,16 +222,16 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-14",
-    "title": "Property Investing & Deal Sourcing",
+    "title": "r/ValueInvesting Fundamental Analysis",
     "platform": "Reddit",
-    "category": "Property Deals",
-    "memberCount": "45,000+ members",
-    "description": "Direct community for finding off-market discounted deals, bird-dogging, and wholesaling contract assignments.",
-    "joinUrl": "https://www.reddit.com/r/propertyinvesting/",
+    "category": "Value Investing",
+    "memberCount": "210,000+ members",
+    "description": "Warren Buffett & Benjamin Graham value methodology, discounted cash flow (DCF), and margin of safety.",
+    "joinUrl": "https://www.reddit.com/r/ValueInvesting/",
     "tags": [
-      "property-deals",
-      "off-market",
-      "wholesaling",
+      "value",
+      "buffett",
+      "dcf",
       "reddit"
     ],
     "verified": true,
@@ -239,272 +239,257 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-15",
-    "title": "Homeowners & Renovation Value Network",
+    "title": "r/passive_income Automated Cashflow",
     "platform": "Reddit",
-    "category": "Equity",
-    "memberCount": "1,200,000+ members",
-    "description": "Renovation cost benchmarks, contractor vetting, and property equity enhancement strategies.",
-    "joinUrl": "https://www.reddit.com/r/homeowners/",
+    "category": "Passive Income",
+    "memberCount": "480,000+ members",
+    "description": "Comparing digital assets, real estate equity, high-yield dividend funds, and automated royalty models.",
+    "joinUrl": "https://www.reddit.com/r/passive_income/",
     "tags": [
-      "equity",
-      "renovation",
-      "property",
+      "passive",
+      "cashflow",
+      "income",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-reddit-16",
-    "title": "Acquisitions & First-Time Buyers",
-    "platform": "Reddit",
-    "category": "Acquisitions",
-    "memberCount": "350,000+ members",
-    "description": "Entry strategies, FHA/conventional financing nuances, and acquisition checklists for emerging investors.",
-    "joinUrl": "https://www.reddit.com/r/FirstTimeHomeBuyer/",
+    "id": "fire-movement-financial-independence-hub-discord-16",
+    "title": "Financial Independence Global Discord",
+    "platform": "Discord",
+    "category": "FIRE Movement",
+    "memberCount": "48,000+ members",
+    "description": "Active community calculating net worth milestones, withdrawal simulations, and tax optimization.",
+    "joinUrl": "https://discord.gg/fire",
     "tags": [
-      "acquisitions",
-      "financing",
-      "buyers",
-      "reddit"
+      "fire",
+      "retirement",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-reddit-17",
-    "title": "Realtors & Investor Agents Exchange",
-    "platform": "Reddit",
-    "category": "Realtors",
-    "memberCount": "130,000+ members",
-    "description": "Network of investor-friendly licensed agents, pocket listings, MLS insights, and broker collaboration.",
-    "joinUrl": "https://www.reddit.com/r/realtors/",
-    "tags": [
-      "realtors",
-      "mls",
-      "pocket-listings",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-18",
-    "title": "PropTech & Automated Deal Finding",
-    "platform": "Reddit",
-    "category": "Proptech",
-    "memberCount": "35,000+ members",
-    "description": "Modern software, scrapers, automated skip tracing tools, and CRM pipelines for wholesale deal flow.",
-    "joinUrl": "https://www.reddit.com/r/RealEstateTechnology/",
-    "tags": [
-      "proptech",
-      "skip-tracing",
-      "automation",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-19",
-    "title": "Mortgages & Creative Financing Hub",
-    "platform": "Reddit",
-    "category": "Creative Finance",
+    "id": "fire-movement-financial-independence-hub-discord-17",
+    "title": "Personal Finance Mastermind Discord",
+    "platform": "Discord",
+    "category": "Budget & Investing",
     "memberCount": "65,000+ members",
-    "description": "Subject-to financing, seller finance notes, hard money lending, and BRRRR refinancing execution.",
-    "joinUrl": "https://www.reddit.com/r/Mortgages/",
+    "description": "Channels dedicated to budgeting tools, 401(k) allocations, tax minimization, and savings automation.",
+    "joinUrl": "https://discord.gg/personalfinance",
     "tags": [
-      "creative-finance",
-      "mortgages",
-      "lending",
-      "reddit"
+      "finance",
+      "budget",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-reddit-20",
-    "title": "Real Estate Tax & 1031 Exchange Guild",
-    "platform": "Reddit",
-    "category": "Tax Strategy",
-    "memberCount": "280,000+ members",
-    "description": "Tax shelter strategies, cost segregation studies, 1031 tax-deferred exchanges, and depreciation deductions.",
-    "joinUrl": "https://www.reddit.com/r/tax/",
-    "tags": [
-      "tax-strategy",
-      "1031-exchange",
-      "depreciation",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-21",
-    "title": "Wealth Building & Equity Stacking",
-    "platform": "Reddit",
-    "category": "Wealth",
-    "memberCount": "450,000+ members",
-    "description": "Strategic allocation, leverage optimization, and portfolio growth across real estate assets.",
-    "joinUrl": "https://www.reddit.com/r/FinancialPlanning/",
-    "tags": [
-      "wealth",
-      "financial-planning",
-      "equity",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-discord-22",
-    "title": "Real Estate Global Discord Server",
+    "id": "fire-movement-financial-independence-hub-discord-18",
+    "title": "Dividends & Cashflow Discord",
     "platform": "Discord",
-    "category": "Discord",
-    "memberCount": "25,000+ members",
-    "description": "Largest verified real estate Discord server with active voice channels, deal pitch rooms, and mentorship.",
-    "joinUrl": "https://discord.gg/realestate",
+    "category": "Dividend Stocks",
+    "memberCount": "38,000+ members",
+    "description": "Discussion on dividend aristocrats, monthly income funds, and compounding dividend reinvestment.",
+    "joinUrl": "https://discord.gg/dividends",
     "tags": [
-      "discord",
-      "deal-pitch",
-      "voice-hangouts",
-      "networking"
+      "dividends",
+      "stocks",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-discord-23",
-    "title": "Global Investing & Real Estate Guild",
+    "id": "fire-movement-financial-independence-hub-discord-19",
+    "title": "Bogleheads Investors Discord",
     "platform": "Discord",
-    "category": "Investing",
-    "memberCount": "150,000+ members",
-    "description": "Multi-asset investment discussions with dedicated real estate channels, market updates, and portfolio tracking.",
+    "category": "Passive Investing",
+    "memberCount": "32,000+ members",
+    "description": "Strict adherence to Jack Bogle's simple, low-cost broad index fund philosophy.",
+    "joinUrl": "https://discord.gg/bogleheads",
+    "tags": [
+      "bogleheads",
+      "index",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-discord-20",
+    "title": "Investing & Wealth Discord",
+    "platform": "Discord",
+    "category": "Equities & Macro",
+    "memberCount": "72,000+ members",
+    "description": "Macroeconomic market news, Federal Reserve rate decisions, and long-term asset allocation models.",
     "joinUrl": "https://discord.gg/investing",
     "tags": [
       "investing",
-      "real-estate",
-      "discord",
-      "portfolios"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-discord-24",
-    "title": "Wealth & Real Estate Syndicate",
-    "platform": "Discord",
-    "category": "Wealth",
-    "memberCount": "40,000+ members",
-    "description": "Private syndications, capital pooling, deal vetting, and joint venture partnerships in multifamily real estate.",
-    "joinUrl": "https://discord.gg/wealth",
-    "tags": [
       "wealth",
-      "syndicates",
-      "joint-ventures",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-discord-25",
-    "title": "Finance & Cash Flow Real Estate Hub",
+    "id": "fire-movement-financial-independence-hub-discord-21",
+    "title": "Real Estate Investors Discord",
     "platform": "Discord",
-    "category": "Cash Flow",
-    "memberCount": "65,000+ members",
-    "description": "Live financial analysis, cap rate calculators, cash-on-cash yield breakdowns, and deal underwriting.",
-    "joinUrl": "https://discord.gg/finance",
+    "category": "Property Investment",
+    "memberCount": "41,000+ members",
+    "description": "Underwriting residential multi-family units, BRRRR renovations, and tenant management workflows.",
+    "joinUrl": "https://discord.gg/realestate",
     "tags": [
-      "cash-flow",
-      "underwriting",
+      "realestate",
+      "properties",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-telegram-22",
+    "title": "FIRE Movement Telegram",
+    "platform": "Telegram",
+    "category": "FIRE Insights",
+    "memberCount": "34,000+ members",
+    "description": "Daily articles on geo-arbitrage, healthcare in early retirement, and asset drawdown strategies.",
+    "joinUrl": "https://t.me/financialindependence",
+    "tags": [
+      "fire",
+      "retirement",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-telegram-23",
+    "title": "Personal Finance Tips Telegram",
+    "platform": "Telegram",
+    "category": "Money Management",
+    "memberCount": "52,000+ members",
+    "description": "Tax deadline reminders, savings interest rate updates, and practical money management tips.",
+    "joinUrl": "https://t.me/personalfinance",
+    "tags": [
       "finance",
-      "discord"
+      "savings",
+      "telegram"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-discord-26",
-    "title": "Business & Real Estate Network",
-    "platform": "Discord",
-    "category": "Business Scaling",
-    "memberCount": "50,000+ members",
-    "description": "Scaling real estate wholesaling operations, cold calling scripts, VA management, and CRM automation.",
-    "joinUrl": "https://discord.gg/business",
-    "tags": [
-      "business-scaling",
-      "wholesaling",
-      "discord",
-      "automation"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-discord-27",
-    "title": "Real Estate Entrepreneurs Syndicate",
-    "platform": "Discord",
-    "category": "Entrepreneurs",
-    "memberCount": "55,000+ members",
-    "description": "Founders, flippers, and wholesalers sharing live deal contracts, title company contacts, and private lenders.",
-    "joinUrl": "https://discord.gg/entrepreneur",
-    "tags": [
-      "entrepreneurs",
-      "private-lenders",
-      "discord",
-      "dealflow"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-telegram-28",
-    "title": "Property Investors Global Telegram Channel",
+    "id": "fire-movement-financial-independence-hub-telegram-24",
+    "title": "Dividend Investors Telegram",
     "platform": "Telegram",
-    "category": "Telegram",
-    "memberCount": "18,500+ members",
-    "description": "Daily verified property deal flow, worldwide market analysis, and real estate investing strategies.",
-    "joinUrl": "https://t.me/propertyinvestors",
+    "category": "Dividend News",
+    "memberCount": "29,000+ members",
+    "description": "Quarterly dividend increase announcements, ex-dividend date calendars, and yield rankings.",
+    "joinUrl": "https://t.me/dividendinvestors",
     "tags": [
-      "telegram",
-      "property-deals",
-      "dealflow",
-      "global"
+      "dividends",
+      "yield",
+      "telegram"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-telegram-29",
-    "title": "Real Estate Market Pulse Telegram",
+    "id": "fire-movement-financial-independence-hub-telegram-25",
+    "title": "Value Investing Hub Telegram",
     "platform": "Telegram",
-    "category": "Telegram",
-    "memberCount": "14,200+ members",
-    "description": "Instant alerts on interest rate shifts, housing inventory updates, and institutional buying trends.",
-    "joinUrl": "https://t.me/realestatemarket",
+    "category": "Fundamental Analysis",
+    "memberCount": "24,000+ members",
+    "description": "Annual report highlights, insider transaction filings, and margin-of-safety stock write-ups.",
+    "joinUrl": "https://t.me/valueinvesting",
     "tags": [
-      "telegram",
-      "market-alerts",
-      "inventory",
-      "rates"
+      "value",
+      "investing",
+      "telegram"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "fire-movement-financial-independence-hub-telegram-30",
-    "title": "Global Real Estate News & Intelligence",
-    "platform": "Telegram",
-    "category": "Telegram",
-    "memberCount": "22,000+ members",
-    "description": "Fast-breaking news on property zoning changes, commercial developments, and mortgage rate forecasts.",
-    "joinUrl": "https://t.me/realestatenews",
+    "id": "fire-movement-financial-independence-hub-forum-26",
+    "title": "Bogleheads Official Forum",
+    "platform": "Forum",
+    "category": "Bogleheads Collective",
+    "memberCount": "280,000+ members",
+    "description": "The gold standard of investor forums discussing asset allocation, tax-efficient fund placement, and safe withdrawals.",
+    "joinUrl": "https://www.bogleheads.org/forum/",
     "tags": [
-      "telegram",
-      "news",
-      "zoning",
-      "commercial"
+      "bogleheads",
+      "investing",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-forum-27",
+    "title": "Early Retirement Forum",
+    "platform": "Forum",
+    "category": "Early Retirement",
+    "memberCount": "160,000+ members",
+    "description": "Long-running forum where early retirees share actual budget telemetry, ACA healthcare navigation, and lifestyle tips.",
+    "joinUrl": "https://www.early-retirement.org/forums/",
+    "tags": [
+      "early-retirement",
+      "fire",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-forum-28",
+    "title": "BiggerPockets Real Estate Forum",
+    "platform": "Forum",
+    "category": "Real Estate Wealth",
+    "memberCount": "2,400,000+ members",
+    "description": "Real estate investing deal analysis, private money lending, short-term rental management, and tax loopholes.",
+    "joinUrl": "https://www.biggerpockets.com/forums",
+    "tags": [
+      "biggerpockets",
+      "realestate",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-forum-29",
+    "title": "Mr. Money Mustache Forum",
+    "platform": "Forum",
+    "category": "Badassity & Frugality",
+    "memberCount": "190,000+ members",
+    "description": "Classic forum dedicated to eliminating financial waste, DIY home repairs, biking, and hyper-early retirement.",
+    "joinUrl": "https://forum.mrmoneymustache.com",
+    "tags": [
+      "mmm",
+      "frugal",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "fire-movement-financial-independence-hub-forum-30",
+    "title": "ChooseFI Global Community",
+    "platform": "Forum",
+    "category": "FI Education",
+    "memberCount": "140,000+ members",
+    "description": "Local chapters, travel rewards credit card hacking, and career acceleration for financial independence.",
+    "joinUrl": "https://www.choosefi.com/community/",
+    "tags": [
+      "choosefi",
+      "community",
+      "forum"
     ],
     "verified": true,
     "featured": false
