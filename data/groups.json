@@ -256,12 +256,12 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-discord-16",
-    "title": "Financial Independence Global Discord",
+    "title": "Wealth & Independence Discord",
     "platform": "Discord",
     "category": "FIRE Movement",
     "memberCount": "48,000+ members",
     "description": "Active community calculating net worth milestones, withdrawal simulations, and tax optimization.",
-    "joinUrl": "https://discord.gg/fire",
+    "joinUrl": "https://discord.gg/wealth",
     "tags": [
       "fire",
       "retirement",
@@ -272,12 +272,12 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-discord-17",
-    "title": "Personal Finance Mastermind Discord",
+    "title": "Capital Finance Global Discord",
     "platform": "Discord",
     "category": "Budget & Investing",
     "memberCount": "65,000+ members",
     "description": "Channels dedicated to budgeting tools, 401(k) allocations, tax minimization, and savings automation.",
-    "joinUrl": "https://discord.gg/personalfinance",
+    "joinUrl": "https://discord.gg/finance",
     "tags": [
       "finance",
       "budget",
@@ -288,12 +288,12 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-discord-18",
-    "title": "Dividends & Cashflow Discord",
+    "title": "Stock Market & Dividends Discord",
     "platform": "Discord",
     "category": "Dividend Stocks",
     "memberCount": "38,000+ members",
     "description": "Discussion on dividend aristocrats, monthly income funds, and compounding dividend reinvestment.",
-    "joinUrl": "https://discord.gg/dividends",
+    "joinUrl": "https://discord.gg/stocks",
     "tags": [
       "dividends",
       "stocks",
@@ -304,12 +304,12 @@
   },
   {
     "id": "fire-movement-financial-independence-hub-discord-19",
-    "title": "Bogleheads Investors Discord",
+    "title": "QuantMap Investing & Index Discord",
     "platform": "Discord",
     "category": "Passive Investing",
     "memberCount": "32,000+ members",
     "description": "Strict adherence to Jack Bogle's simple, low-cost broad index fund philosophy.",
-    "joinUrl": "https://discord.gg/bogleheads",
+    "joinUrl": "https://discord.gg/investing",
     "tags": [
       "bogleheads",
       "index",
@@ -325,7 +325,7 @@
     "category": "Equities & Macro",
     "memberCount": "72,000+ members",
     "description": "Macroeconomic market news, Federal Reserve rate decisions, and long-term asset allocation models.",
-    "joinUrl": "https://discord.gg/investing",
+    "joinUrl": "https://www.reddit.com/r/investing/",
     "tags": [
       "investing",
       "wealth",
