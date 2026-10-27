@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Financial Independence Hub</title>
     <link>https://personal-finance-fire-movement-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:03:49 GMT</lastBuildDate>
     <atom:link href="https://personal-finance-fire-movement-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-forum-20261023-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:03:49 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-forum-20261023-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-discord-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:03:59 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/programming International (Reddit)</title>
-      <link>https://www.reddit.com/r/programming/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-reddit-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:03:39 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Major international hub for computer programming discussions, industry insights, and software development trends.</description>
     </item>
   </channel>
 </rss>
