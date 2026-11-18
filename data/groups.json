@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-movement-financial-independence-hub-reddit-1",
+    "title": "r/financialindependence FIRE Hub",
+    "platform": "Reddit",
+    "category": "Financial Independence",
+    "memberCount": "2,200,000+ members",
+    "description": "The premier global community for calculating safe withdrawal rates, maximizing savings rates, and achieving early retirement.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "retirement",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "personal-finance-fire-movement-hub-forum-20261023-1",
     "title": "DEV Community WebDev Hub",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -659,24 +678,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-1",
-    "title": "r/financialindependence FIRE Hub",
-    "platform": "Reddit",
-    "category": "Financial Independence",
-    "memberCount": "2,200,000+ members",
-    "description": "The premier global community for calculating safe withdrawal rates, maximizing savings rates, and achieving early retirement.",
-    "joinUrl": "https://www.reddit.com/r/financialindependence/",
-    "tags": [
-      "fire",
-      "retirement",
-      "investing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-2",

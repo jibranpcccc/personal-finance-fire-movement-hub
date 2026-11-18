@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Financial Independence Hub</title>
     <link>https://personal-finance-fire-movement-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:25:05 GMT</lastBuildDate>
     <atom:link href="https://personal-finance-fire-movement-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/financialindependence FIRE Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/financialindependence/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#fire-movement-financial-independence-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:25:05 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: The premier global community for calculating safe withdrawal rates, maximizing savings rates, and achieving early retirement.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-forum-20261023-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-discord-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:03:43 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
-      <link>https://discord.gg/vue</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-discord-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:03:40 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
     </item>
   </channel>
 </rss>
