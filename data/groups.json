@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-movement-financial-independence-hub-reddit-2",
+    "title": "r/leanfire Minimalist FIRE",
+    "platform": "Reddit",
+    "category": "Lean FIRE",
+    "memberCount": "290,000+ members",
+    "description": "Strategies for achieving financial independence on an annual budget under $40,000 through extreme frugality.",
+    "joinUrl": "https://www.reddit.com/r/leanfire/",
+    "tags": [
+      "leanfire",
+      "frugality",
+      "budgeting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "fire-movement-financial-independence-hub-reddit-1",
     "title": "r/financialindependence FIRE Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -678,24 +697,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-2",
-    "title": "r/leanfire Minimalist FIRE",
-    "platform": "Reddit",
-    "category": "Lean FIRE",
-    "memberCount": "290,000+ members",
-    "description": "Strategies for achieving financial independence on an annual budget under $40,000 through extreme frugality.",
-    "joinUrl": "https://www.reddit.com/r/leanfire/",
-    "tags": [
-      "leanfire",
-      "frugality",
-      "budgeting",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-3",
