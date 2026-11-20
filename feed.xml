@@ -4,10 +4,17 @@
     <title>FIRE Movement &amp; Financial Independence Hub</title>
     <link>https://personal-finance-fire-movement-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:03:57 GMT</lastBuildDate>
     <atom:link href="https://personal-finance-fire-movement-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/fatFIRE High-Net-Worth FIRE (Reddit)</title>
+      <link>https://www.reddit.com/r/fatFIRE/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#fire-movement-financial-independence-hub-reddit-3-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:03:57 GMT</pubDate>
+      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Achieving early retirement with high expenditure ($100k-$500k+/year), estate planning, and private equity investments.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/leanfire Minimalist FIRE (Reddit)</title>
       <link>https://www.reddit.com/r/leanfire/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#fire-movement-financial-independence-hub-reddit-2-2026-11-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-github-20261021-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:04:00 GMT</pubDate>
       <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
-      <link>https://users.rust-lang.org</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/personal-finance-fire-movement-hub/#personal-finance-fire-movement-hub-github-20261020-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:05:03 GMT</pubDate>
-      <description>Newly verified community added to FIRE Movement &amp; Financial Independence Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
     </item>
   </channel>
 </rss>
