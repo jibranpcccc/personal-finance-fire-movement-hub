@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-movement-financial-independence-hub-reddit-6",
+    "title": "r/dividends Cash Flow Compounding",
+    "platform": "Reddit",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "Building sustainable passive income through qualified dividend growth stocks, SCHD, and DRIP compounding.",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
+    "tags": [
+      "dividends",
+      "passive-income",
+      "stocks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "fire-movement-financial-independence-hub-reddit-5",
     "title": "r/personalfinance Money Management",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -754,24 +773,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-6",
-    "title": "r/dividends Cash Flow Compounding",
-    "platform": "Reddit",
-    "category": "Dividend Growth",
-    "memberCount": "620,000+ members",
-    "description": "Building sustainable passive income through qualified dividend growth stocks, SCHD, and DRIP compounding.",
-    "joinUrl": "https://www.reddit.com/r/dividends/",
-    "tags": [
-      "dividends",
-      "passive-income",
-      "stocks",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-7",
