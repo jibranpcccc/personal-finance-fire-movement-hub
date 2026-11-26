@@ -1,5 +1,24 @@
 [
   {
+    "id": "fire-movement-financial-independence-hub-reddit-9",
+    "title": "r/FIREyFemmes Women in FIRE",
+    "platform": "Reddit",
+    "category": "Women & FIRE",
+    "memberCount": "55,000+ members",
+    "description": "Supportive community for women pursuing financial independence, salary negotiation, and wealth accumulation.",
+    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
+    "tags": [
+      "women",
+      "fire",
+      "careers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "fire-movement-financial-independence-hub-reddit-8",
     "title": "r/stocks Equity Research",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -811,24 +830,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "fire-movement-financial-independence-hub-reddit-9",
-    "title": "r/FIREyFemmes Women in FIRE",
-    "platform": "Reddit",
-    "category": "Women & FIRE",
-    "memberCount": "55,000+ members",
-    "description": "Supportive community for women pursuing financial independence, salary negotiation, and wealth accumulation.",
-    "joinUrl": "https://www.reddit.com/r/FIREyFemmes/",
-    "tags": [
-      "women",
-      "fire",
-      "careers",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "fire-movement-financial-independence-hub-reddit-10",
